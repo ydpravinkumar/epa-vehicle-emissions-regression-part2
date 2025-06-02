@@ -28,7 +28,7 @@ The data is sourced from the **U.S. Environmental Protection Agency (EPA)**, inc
 ├── data/
 │   └── 
 │
-├── EPA_Regression_Modeling.ipynb
+├── EPA_Vehicle_Emissions_EDA_Part2.ipynb
 ├── regression_summary.md
 └── README.md
 ```
